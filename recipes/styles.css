@@ -7,6 +7,11 @@ h1 {
     font-size: 40px;
 }
 
+.mainfoodimg {
+    height: auto; 
+    width: 500px;
+}
+
 .caption {
     font-size: 14px;
     margin-top: 0rem;
@@ -35,11 +40,11 @@ li {
     margin-bottom: 1rem;
 }
 
-.buttonsimg {
+.buttonstext {
     background-color: orange;
     color: black;
     font-weight: 300px;
-    font-size: 16px;
+    font-size: 13px;
 }
 
 .picartbuttons {
