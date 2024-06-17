@@ -1,0 +1,49 @@
+h1 {
+    text-align: center;
+    color: black;
+    font-weight: 900px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 2rem;
+    font-size: 40px;
+}
+
+.caption {
+    font-size: 14px;
+    margin-top: 0rem;
+
+}
+
+.subtitles {
+    font-size: 22px;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+li {
+    margin-bottom: 1%;
+}
+
+.downloadbutton {
+    background-color: orange;
+    color: black;
+    font-weight: black;
+    font-size: 22px;
+}
+
+.fillertext {
+    text-align: left;
+    margin-bottom: 1rem;
+}
+
+.buttonsimg {
+    background-color: orange;
+    color: black;
+    font-weight: 300px;
+    font-size: 16px;
+}
+
+.picartbuttons {
+    width: 20px;
+    height: auto;
+    float:left;
+}
